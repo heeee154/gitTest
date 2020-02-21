@@ -2,7 +2,7 @@ package gitTest;
 
 public class GitTest {
 	public static void main(String[] arg) {
-		System.out.println("안녕하세여11111");
+		System.out.println("hello gitTest hello world");
 	}
 
 }
